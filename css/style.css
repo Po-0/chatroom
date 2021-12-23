@@ -7,7 +7,9 @@
 @import "components/screen-header.css";
 /* Screen */
 @import "screen/login.css";
+@import "screen/friends.css";
 
 body {
   font-family: "Open Sans", sans-serif;
+  color: #2e363e;
 }
