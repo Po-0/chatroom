@@ -1,3 +1,3 @@
 # Chatroom
 
-We need chatroom.
+This repository uses only HTML, CSS.
